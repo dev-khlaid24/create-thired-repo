@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgba(0, 0, 0, 0.712);
+}
+h1{
+    color: #fff;
+}
+p {
+    background: gray;
+    color: #fff;
+}
